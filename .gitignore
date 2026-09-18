@@ -1,0 +1,10 @@
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Word sources stay local; publish PDFs instead
+*.docx
+
+# Local editor and tool settings
+.claude/
+.vscode/
