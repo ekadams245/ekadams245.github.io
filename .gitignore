@@ -8,3 +8,9 @@ desktop.ini
 # Local editor and tool settings
 .claude/
 .vscode/
+
+# Portfolio page — not launched yet, must not be published
+portfolio.html
+portfolio.css
+portfolio.js
+portfolio-data.js
